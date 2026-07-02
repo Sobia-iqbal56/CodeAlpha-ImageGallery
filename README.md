@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
 ![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Enabled-black)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A modern, responsive, and interactive Image Gallery built using **HTML5**, **CSS3**, and **JavaScript**.
 
@@ -28,7 +28,7 @@ The project focuses on:
 - Accessibility
 - Reusable JavaScript Functions
 
----
+
 
  ✨ Features
 
@@ -49,25 +49,22 @@ The project focuses on:
 
  📸 Screenshots
 
-## 🌞 Light Mode
+ 🌞 Light Mode
 
 ![Light Mode](screenshots/home-light.png)
 
----
 
-## 🌙 Dark Mode
+ 🌙 Dark Mode
 
 ![Dark Mode](screenshots/home-dark.png)
 
----
 
-## 🔍 Lightbox
+ 🔍 Lightbox
 
 ![Lightbox](screenshots/lightbox.png)
 
----
 
-# 🛠 Technologies Used
+ 🛠 Technologies Used
 
 - HTML5
 - CSS3
